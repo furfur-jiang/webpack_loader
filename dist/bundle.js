@@ -1,0 +1,1 @@
+!function(){"use strict";console.log('<h1 id="furfur">furfur</h1> <h2 id="fur江">fur江</h2> ')}();
